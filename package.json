@@ -1,6 +1,6 @@
 {
   "name": "ProjectMetaChangeTest",
-  "version": "2.0.2",
+  "version": "3.0.1",
   "dependencies": {
     "aws-sdk": "2.176.0"
   }
